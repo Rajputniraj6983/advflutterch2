@@ -1,3 +1,6 @@
+import 'package:advflutterch2/task3/views/cupertinolist.dart';
+import 'package:advflutterch2/task3/views/mypeople.dart';
+import 'package:advflutterch2/task3/views/setting.dart';
 import 'package:flutter/cupertino.dart';
 void main()
 {
@@ -10,20 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoApp(
       debugShowCheckedModeBanner: false,
-      home: CupertinoPageScaffold(
-        child: CustomScrollView(
-          slivers: [
-            CupertinoSliverNavigationBar(
-              largeTitle: Text('My People'),
-            ),
-            SliverFillRemaining(
-              child: Column(
-                children: List.generate(15, (index) => CupertinoListTile(title: Text('Person ${index}'))),
-              ),
-            )
-          ],
-        ),
-      ),
+      home: setting(),
     );
   }
 }
+
