@@ -17,6 +17,21 @@ samples, guidance on mobile development, and a full API reference.
 <p>
   <img src = "https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/a4136b3a-3bd8-4196-b72b-d1ccc0a37b6c)" width=200>
   <img src = "https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/05ae0691-f210-47ee-abe7-72da119a7ae7" width=200>
- 
-
+  <img src = "https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/88d4c60f-1a39-4749-88b1-3cced16ca2e4" width=200>
 </p>
+
+# Cupertino BottemTabBar
+- An iOS-styled bottom navigation tab bar. Displays multiple tabs using BottomNavigationBarItem with one tab being active, the first tab by default.
+
+  
+<img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/22efa73e-43f8-4e5f-aa7b-1b14d4a4f9e2' width = 300>;
+
+
+
+
+
+
+
+
+
+   
