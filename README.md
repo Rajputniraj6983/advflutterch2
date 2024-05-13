@@ -26,6 +26,13 @@ samples, guidance on mobile development, and a full API reference.
   
 <img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/22efa73e-43f8-4e5f-aa7b-1b14d4a4f9e2' width = 300>;
 
+# Cupertino SliderSegement
+-Displays the widgets provided in the Map of children in a horizontal list. It allows the user to select between a number of mutually exclusive options, by tapping or dragging within the segmented control. 
+
+<img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/61a9d05b-c644-4307-b133-c7e0161c6806' width = 300>;
+
+<video src="https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/798f2b25-ebf4-4c32-ab8a-8cc5d7095bd4" width="400">
+
 
 
 
