@@ -1,3 +1,4 @@
+import 'package:advflutterch2/task3/screen/provider/tabbar.dart';
 import 'package:advflutterch2/task3/views/cupertinolist.dart';
 import 'package:advflutterch2/task3/views/mypeople.dart';
 import 'package:advflutterch2/task3/views/setting.dart';
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return CupertinoApp(
       debugShowCheckedModeBanner: false,
-      home: setting(),
+      home: Tabbar(),
     );
   }
 }
