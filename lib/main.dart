@@ -5,9 +5,12 @@ import 'package:advflutterch2/task3/views/cupertinolist.dart';
 import 'package:advflutterch2/task3/views/mypeople.dart';
 import 'package:advflutterch2/task3/views/setting.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import 'task4/screen/view/actionsheet.dart';
 import 'task4/screen/view/contextmenu.dart';
+import 'task5/views/androiddate.dart';
 void main()
 {
   runApp(MultiProvider(providers: [
@@ -19,9 +22,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return CupertinoApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Context(),
+      home: Androidate(),
     );
   }
 }
