@@ -27,9 +27,17 @@ class _AndroidateState extends State<Androidate> {
                   firstDate: DateTime(1947),
                   lastDate: DateTime(2047));
             },
-                child: Text('Date', style: TextStyle(color: Colors.black,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 25),))
+                child: Padding(
+                  padding: const EdgeInsets.only(top: 200,),
+                  child: Container(height: 60,width: 120,
+                    child: Center(
+                      child: Text('Date', style: TextStyle(color: Colors.black,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 35),),
+                    ),decoration: BoxDecoration(borderRadius: BorderRadius.circular(15),color: Colors.grey),
+                  ),
+                ),
+            )
           ],
         ),
       ),

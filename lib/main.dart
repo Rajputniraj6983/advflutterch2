@@ -11,6 +11,7 @@ import 'package:provider/provider.dart';
 import 'task4/screen/view/actionsheet.dart';
 import 'task4/screen/view/contextmenu.dart';
 import 'task5/views/androiddate.dart';
+import 'task5/views/iosdate.dart';
 void main()
 {
   runApp(MultiProvider(providers: [
@@ -22,9 +23,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return CupertinoApp(
       debugShowCheckedModeBanner: false,
-      home: Androidate(),
+      home: Iosdate(),
     );
   }
 }
