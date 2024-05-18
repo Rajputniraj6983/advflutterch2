@@ -94,6 +94,17 @@ In Flutter, Sliver Widgets are a set of specialized widgets that allow for highl
 </div>
 <video src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/090f62a1-c23e-4bd5-948f-f5df9fff34f5'></video>
 
+<p>
+  <img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/4244f42e-e3af-4bce-87d7-b06880c5f8fc' width = 250>
+  <img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/401e2da6-ba3d-4d9f-87fb-fa9f130025d8' width = 250>
+</p>
+
+<div align="center">
+    <a href="https://github.com/Rajputniraj6983/advflutterch2/tree/master/lib/task6">👉 📚 Go to dart file 📚 👈</a>
+</div>
+<video src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/b6894b85-1ce3-4292-832e-9fbfc5ebd089'></video>
+
+
 
 
    
