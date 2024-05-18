@@ -64,5 +64,36 @@ Key Features:
 </p>
 
 
+<h3 align="center">🔥 2.8 Sliver Widgets 🔥</h3>
+
+
+In Flutter, Sliver Widgets are a set of specialized widgets that allow for highly customizable and efficient scrolling effects. They are particularly useful for creating scrollable areas that can change their appearance or behavior based on the current scroll offset. Slivers are a key component of the `CustomScrollView` widget, which enables the creation of complex scrolling interfaces.
+
+
+*Key Features*
+
+**Flexible and Customizable Scrolling Effects** : Sliver widgets allow for fine-grained control over how content scrolls. This includes dynamic resizing, pinning, floating, and snapping behaviors.
+
+**Efficient Rendering** : Slivers are designed to render efficiently by only building the visible parts of the scrollable content, which improves performance for large lists or complex layouts. 
+
+**Composability** : Multiple sliver widgets can be combined within a CustomScrollView to create intricate scrolling layouts, such as collapsible headers, sticky sections, and grids.
+
+*Common Sliver Widgets*
+* **SliverAppBar** : A scrollable app bar that integrates with other slivers to provide a header that can expand, collapse, or float as you scroll.
+* **SliverList** : A sliver that displays a linear list of children. It is similar to a ListView but optimized for use within a CustomScrollView.
+* **SliverGrid** : A sliver that displays a 2D array of children. It is similar to a GridView but allows for more customization and efficiency within a scrollable context.
+* **SliverFillRemaining**:A sliver that fills the remaining space in the viewport, useful for creating layouts where the remaining area needs to be filled with a specific widget.
+
+<p>
+  <img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/6a00d3c0-f62a-44f8-8386-1291602a30dd' width = 250>
+  <img src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/2482f74b-62a3-49bb-8110-d7cfbef50a83' width = 250>
+</p>
+
+<div align="center">
+    <a href="https://github.com/Rajputniraj6983/advflutterch2/tree/master/lib/task6">👉 📚 Go to dart file 📚 👈</a>
+</div>
+<video src='https://github.com/Rajputniraj6983/advflutterch2/assets/143181391/090f62a1-c23e-4bd5-948f-f5df9fff34f5'></video>
+
+
 
    
